@@ -180,6 +180,6 @@ public class DeliveryTest {
                 .shouldHave(text("Поле обязательно для заполнения"))
                 .shouldBe(Condition.visible);
     }
-
-
 }
+
+
